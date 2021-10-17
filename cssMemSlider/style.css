@@ -120,7 +120,7 @@ body {
   > .dots
   > .dots__item-1
   > .item-1 {
-  background-color: black;
+  background-color: rgb(7, 8, 7);
 }
 #b2:checked
   ~ .td-container
@@ -128,7 +128,7 @@ body {
   > .dots
   > .dots__item-2
   > .item-2 {
-  background-color: black;
+  background-color: rgb(7, 8, 7);
 }
 #b3:checked
   ~ .td-container
@@ -136,7 +136,7 @@ body {
   > .dots
   > .dots__item-3
   > .item-3 {
-  background-color: black;
+  background-color: rgb(7, 8, 7);
 }
 #b4:checked
   ~ .td-container
@@ -144,7 +144,7 @@ body {
   > .dots
   > .dots__item-4
   > .item-4 {
-  background-color: black;
+  background-color: rgb(7, 8, 7);
 }
 #b5:checked
   ~ .td-container
@@ -152,7 +152,7 @@ body {
   > .dots
   > .dots__item-5
   > .item-5 {
-  background-color: black;
+  background-color: rgb(7, 8, 7);
 }
 
 .slider-container input {
