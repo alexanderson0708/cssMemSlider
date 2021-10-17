@@ -156,7 +156,7 @@ body {
 }
 
 .slider-container input {
-  position: absolute;
+  display: none;
   visibility: hidden;
 }
 .dots-container {
